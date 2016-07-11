@@ -5,11 +5,11 @@
 
 [TechnoMile](http://www.technomile.com) created a sample website that demonstrates how to build customer blog with [Drupal](http://www.drupal.org).
 
-You can deploy your own version of Drupal running on PostgreSQL on Heroku platform in seconds using the Heroku button below:
+You can deploy your own version of Drupal running on MySQL on Heroku platform in seconds using the Heroku button below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/technomile/Heroku-Drupal-PostgreSQL)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/technomile/Heroku-Drupal)
 
-Click [here](http://heroku-drupal-postgresql.herokuapp.com) to see live demo for Drupal running on PostgreSQL.
+Click [here](http://heroku-drupal-mysql.herokuapp.com/) to see live demo for Drupal running on MySQL.
 
 [![Add-ons](http://technomile.github.io/img/drupal-buidpack.png)](http://www.technomile.com/capabilities/application-development/heroku/drupal)
 
